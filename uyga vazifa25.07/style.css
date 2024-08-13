@@ -1,0 +1,49 @@
+.all{
+     width: 60%;
+     height: auto;
+     margin: auto;
+     display: flex;
+}
+.first{
+     display: inline-block;
+}
+.box{
+     margin: 5px;
+     box-sizing:content-box;
+     border-top-left-radius: 30%;
+     border-top-right-radius: 30%;
+     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+     height: 300px;
+     width: 200px;
+     border-radius: 15px;
+     overflow: hidden;
+     color: black;
+}
+.name{
+     padding:0px 5px 5px;
+}
+h3{
+     padding: 0;
+     margin: 0;
+}
+.image{
+width: 100%;
+height: 150px;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.img2{
+     background-image: url(./img/Без\ названия.jpg);
+}
+.img1{
+     background-image: url(./img/Без\ названия\ \(1\).jpg);
+}.img3{
+     background-image: url(./img/images.jpg);
+}
+.img4{
+     background-image: url(./img/Без\ названия\ \(2\).jpg);
+}
+.img5{
+     background-image: url(./img/Без\ названия\ \(3\).jpg);
+}
